@@ -51,8 +51,8 @@ I'm a passionate **Software Engineer** and **Animator** who loves to blend the w
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
 ![Toon Boom Harmony](https://img.shields.io/badge/-Toon_Boom_Harmony-FFCC00?logo=toonboom&logoColor=black&style=for-the-badge)
-![Moho](https://img.shields.io/badge/-Moho-Pro-990000?logo=none&style=for-the-badge)
 ![Autodesk Maya](https://img.shields.io/badge/-Autodesk_Maya-3C9CD7?logo=autodesk&logoColor=white&style=for-the-badge)
+![Moho](https://img.shields.io/badge/-Moho-4A90E2?logo=none&style=for-the-badge)
 
 ### Animation Skills:
 - **2D Animation**: Traditional and digital animation techniques.
