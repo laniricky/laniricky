@@ -93,7 +93,7 @@ I'm a passionate **Software Engineer** and **Animator** who loves to blend the w
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/laniricky)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/laniricky/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/mtaanimation/)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@reallaniricky/)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@mtaanimaton/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/c/mtaanimation0/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff5555?logo=firefoxbrowser&logoColor=white&style=for-the-badge)](https://mtaanimation.com/)
 
