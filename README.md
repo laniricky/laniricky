@@ -83,7 +83,7 @@ I'm a passionate **Software Engineer** and **Animator** who loves to blend the w
 
 ## 🎨 Featured Animations from MTAANIMATION
 
-[Check out MTAANIMATION](https://www.tiktok.com/@reallaniricky?lang=en) for a collection of my latest 2D animation projects, tutorials, and more!
+[Check out MTAANIMATION](https://www.tiktok.com/@mtaanimation?lang=en) for a collection of my latest 2D animation projects, tutorials, and more!
 
 ---
 
