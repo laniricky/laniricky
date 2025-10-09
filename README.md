@@ -73,10 +73,10 @@ I'm a passionate **Software Engineer** and **Animator** who loves to blend the w
 
 ## 💼 Featured Projects
 
-- **[Project 1: Interactive Animation Tool](https://github.com/Mine/Animation)**  
+- **[Project 1: Interactive Animation Tool](https://github.com/Laniricky/Animation)**  
   _A web-based tool for creating interactive animations with JavaScript and Canvas._
 
-- **[Project 2: Animation Portfolio Website](https://laniricky.github.io/mtaanimation)**  
+- **[Project 2: Animation Portfolio Website](https://www.mtaanimation.com)**  
   _A personal website to showcase my animation work, built with React and Node.js._
 
 ---
