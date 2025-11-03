@@ -42,13 +42,13 @@ I'm a passionate **Software Engineer** and **Animator** who loves to blend the w
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 
-
-
 ### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
 ### DevOps & Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -57,6 +57,21 @@ I'm a passionate **Software Engineer** and **Animator** who loves to blend the w
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=for-the-badge)
+
+### Operating Systems:
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -69,6 +84,10 @@ I'm a passionate **Software Engineer** and **Animator** who loves to blend the w
 ![Toon Boom Harmony](https://img.shields.io/badge/-Toon_Boom_Harmony-FFCC00?logo=toonboom&logoColor=black&style=for-the-badge)
 ![Autodesk Maya](https://img.shields.io/badge/-Autodesk_Maya-3C9CD7?logo=autodesk&logoColor=white&style=for-the-badge)
 ![Moho](https://img.shields.io/badge/-Moho-4A90E2?logo=none&style=for-the-badge)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
+
 
 ### Animation Skills:
 - **2D Animation**: Traditional and digital animation techniques.
