@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Software Engineer** and **Animator** who loves to blend the worlds of **technology** and **creativity**. I enjoy building software solutions and creating visually appealing animations. With expertise in both **coding** and **animation**, I bring projects to life, from concept to final delivery.
 
-- 🔭 Currently working on: **MTAANIMATION**(My Company).
+- 🔭 Currently working on: **MTAANIMATION**.
 - 🌱 Learning: **AUTODESK MAYA** in Animation and **LARAVEL** in Programming.
 - 💬 Ask me about: **Software development**, **2D/3D animation**, or **Creative coding**.
 - 🎨 Fun fact: I run **MTAANIMATION**, where I create engaging 2D animations.
