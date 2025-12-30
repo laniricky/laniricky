@@ -59,7 +59,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 <img src="https://skillicons.dev/icons?i=blender,ae,pr,ps,ai&theme=dark" />
 </p>
 
-<<p>
+<p>
 <strong>Additional Animation & Production Tools:</strong><br/><br/>
 
 <img src="https://img.shields.io/badge/Toon%20Boom-Harmony-blue?style=for-the-badge" />
