@@ -1,9 +1,9 @@
 <!-- HERO -->
 <h1 align="center">⚡ FREDRICK LANI</h1>
-<h3 align="center">Creative Technologist · Software Engineer · Animator</h3>
+<h3 align="center">Creative Technologist · Software Engineer · Character Animator</h3>
 
 <p align="center">
-  <em>I don’t just write code — I animate ideas.</em>
+  <em>I don’t just write code — I animate stories.</em>
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 ## 🎥 Who Am I?
 
-I sit where **engineering meets storytelling**.
+I sit where **engineering meets storytelling** — but in **distinct domains**.
 
-I build **modern web systems**, design **cinematic UI**, and create **story-driven animations** for global audiences.  
-Founder of **MTAANIMATION**, a digital animation studio focused on **impact, emotion, and scale**.
+I develop **robust web systems** and create **character-driven animations for film and narrative content**.  
+Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytelling, emotion, and character performance**.
 
 > Code is structure.  
-> Animation is emotion.  
-> I work in both.
+> Animation is performance.  
+> I work in both — deliberately.
 
 ---
 
@@ -31,21 +31,21 @@ Founder of **MTAANIMATION**, a digital animation studio focused on **impact, emo
 
 🧠 **Engineer**
 - Frontend systems with **React, Tailwind, Vite**
-- Full-stack apps using **Node.js & Laravel**
-- Performance-focused, mobile-first UI
+- Full-stack web applications using **Node.js & Laravel**
+- Scalable, performance-focused, production-ready systems
 
-🎬 **Animate**
+🎬 **Animate (Film & Narrative)**
 - 2D character animation & rigging
-- Motion graphics & compositing
+- Shot-based animation for story and film
+- Acting, timing, and performance-driven motion
 - Storyboarding → final cut
 
 🚀 **Build Brands**
-- Animation-first web experiences
+- Software platforms with strong visual identity
+- Animation studios & creator-facing products
 - Products designed for **international audiences**
-- Visual storytelling that converts
 
 ---
-
 
 ## ⚙️ My Stack (Battle-Tested)
 
@@ -64,11 +64,11 @@ Founder of **MTAANIMATION**, a digital animation studio focused on **impact, emo
 ## 🔥 Flagship Projects
 
 ### 🎬 MTAANIMATION
-**Animation Studio & Digital Brand**
+**Character Animation Studio**
 
-- Cinematic 2D animation
-- Short-form storytelling
-- Animation-first web identity
+- Cinematic 2D character animation
+- Story-driven film and short-form narratives
+- Performance-first animation pipeline
 
 🌍 https://mtaanimation.com  
 🎥 https://www.tiktok.com/@mtaanimation
@@ -90,16 +90,16 @@ Founder of **MTAANIMATION**, a digital animation studio focused on **impact, emo
 ## 🧠 Current Focus
 
 - 🧬 Advanced **Frontend Architecture**
-- 🎥 **3D Animation (Autodesk Maya)**
+- 🎥 **3D Character Animation (Autodesk Maya)**
 - ⚙️ **Laravel at scale**
-- 🌍 Building globally relevant products
+- 🌍 Building globally relevant systems & stories
 
 ---
 
 ## 🤝 Let’s Build Something Interesting
 
-If your project lives at the intersection of  
-**tech · creativity · storytelling** — we’ll get along.
+If your project needs  
+**solid engineering** or **cinematic character animation** — we’ll get along.
 
 📩 Reach me:
 - LinkedIn: https://linkedin.com/in/fredrick-lani-18b255208  
@@ -109,5 +109,5 @@ If your project lives at the intersection of
 ---
 
 <p align="center">
-  <strong>⚠️ Warning:</strong> I ship ideas, not just code.
+  <strong>⚠️ Warning:</strong> I build systems and animate characters — not gimmicks.
 </p>
