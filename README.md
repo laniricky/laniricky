@@ -70,7 +70,6 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 <img src="https://img.shields.io/badge/Autodesk-Maya-3C9CD7?style=for-the-badge" />
 
 </p>
->
 
 
 ---
