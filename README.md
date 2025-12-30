@@ -16,7 +16,7 @@
 
 ## 🎥 Who Am I?
 
-I sit where **engineering meets storytelling** ; but in **distinct domains**.
+I sit where **engineering meets storytelling** — but in **distinct domains**.
 
 I develop **robust web systems** and create **character-driven animations for film and narrative content**.  
 Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytelling, emotion, and character performance**.
@@ -57,6 +57,11 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 ### Animation
 <p>
 <img src="https://skillicons.dev/icons?i=blender,ae,ps,ai&theme=dark" />
+</p>
+
+<p>
+<strong>Additional Animation & Production Tools:</strong><br/>
+Toon Boom Harmony · Adobe Audition · Clip Studio Paint · Moho · Adobe Premiere Pro · Autodesk Maya
 </p>
 
 ---
