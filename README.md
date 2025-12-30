@@ -56,7 +56,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 
 ### Animation
 <p>
-<img src="https://skillicons.dev/icons?i=blender,ae,ps,ai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=blender,ae,pr,ps,ai&theme=dark" />
 </p>
 
 <p>
