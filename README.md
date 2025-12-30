@@ -67,26 +67,6 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 ![Clip Studio Paint](https://img.shields.io/badge/-Clip%20Studio%20Paint-1f5d3b?style=for-the-badge&logo=clip-studio&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/badge/-Maya-00a2e8?style=for-the-badge&logo=autodesk&logoColor=white)
 
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-<span style="background:#0099f9; color:white; padding:5px 10px; border-radius:5px;">
-  <i class="fa-solid fa-cube"></i> Toon Boom Harmony
-</span>
-
-<span style="background:#ff61f6; color:white; padding:5px 10px; border-radius:5px;">
-  <i class="fa-brands fa-adobe"></i> Adobe Audition
-</span>
-
-<span style="background:#1f5d3b; color:white; padding:5px 10px; border-radius:5px;">
-  <i class="fa-solid fa-paintbrush"></i> Clip Studio Paint
-</span>
-
-<span style="background:#00a2e8; color:white; padding:5px 10px; border-radius:5px;">
-  <i class="fa-brands fa-autodesk"></i> Autodesk Maya
-</span>
-
-
 </p>
 
 
