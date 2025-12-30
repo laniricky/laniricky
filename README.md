@@ -16,7 +16,7 @@
 
 ## 🎥 Who Am I?
 
-I sit where **engineering meets storytelling** — but in **distinct domains**.
+I sit where **engineering meets storytelling** ; but in **distinct domains**.
 
 I develop **robust web systems** and create **character-driven animations for film and narrative content**.  
 Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytelling, emotion, and character performance**.
