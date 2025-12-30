@@ -62,10 +62,11 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 <p>
 <strong>Additional Animation & Production Tools:</strong><br/><br/>
 
-![Toon Boom Harmony](https://img.shields.io/badge/Toon%20Boom-Harmony-blue?style=for-the-badge)
-![Adobe Audition](https://img.shields.io/badge/Adobe-Audition-purple?style=for-the-badge)
-![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio-Paint-darkgreen?style=for-the-badge)
-![Autodesk Maya](https://img.shields.io/badge/Autodesk-Maya-3C9CD7?style=for-the-badge)
+![Toon Boom Harmony](https://img.shields.io/badge/-Harmony-0099f9?style=for-the-badge&logo=toonboom&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/-Audition-ff61f6?style=for-the-badge&logo=adobeaudition&logoColor=white)
+![Clip Studio Paint](https://img.shields.io/badge/-Clip%20Studio%20Paint-1f5d3b?style=for-the-badge&logo=clip-studio&logoColor=white)
+![Autodesk Maya](https://img.shields.io/badge/-Maya-00a2e8?style=for-the-badge&logo=autodesk&logoColor=white)
+
 
 </p>
 
