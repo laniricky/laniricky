@@ -68,6 +68,25 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 ![Autodesk Maya](https://img.shields.io/badge/-Maya-00a2e8?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<span style="background:#0099f9; color:white; padding:5px 10px; border-radius:5px;">
+  <i class="fa-solid fa-cube"></i> Toon Boom Harmony
+</span>
+
+<span style="background:#ff61f6; color:white; padding:5px 10px; border-radius:5px;">
+  <i class="fa-brands fa-adobe"></i> Adobe Audition
+</span>
+
+<span style="background:#1f5d3b; color:white; padding:5px 10px; border-radius:5px;">
+  <i class="fa-solid fa-paintbrush"></i> Clip Studio Paint
+</span>
+
+<span style="background:#00a2e8; color:white; padding:5px 10px; border-radius:5px;">
+  <i class="fa-brands fa-autodesk"></i> Autodesk Maya
+</span>
+
+
 </p>
 
 
@@ -114,6 +133,7 @@ If your project needs
 **solid engineering** or **cinematic character animation** — we’ll get along.
 
 📩 Reach me:
+- Email: lani@mtaanimation.com
 - LinkedIn: https://linkedin.com/in/fredrick-lani-18b255208  
 - Instagram: https://instagram.com/mtaanimation  
 - YouTube: https://youtube.com/@mtaanimation0  
