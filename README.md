@@ -1,9 +1,8 @@
-<!-- HERO -->
 <h1 align="center">⚡ FREDRICK LANI</h1>
-<h3 align="center">Creative Technologist · Software Engineer · Animator</h3>
+<h3 align="center">Software Engineer · Animator · Creative Technologist</h3>
 
 <p align="center">
-  <em>I don’t just write code — I animate ideas.</em>
+  Building at the intersection of <strong>code</strong>, <strong>design</strong>, and <strong>storytelling</strong>.
 </p>
 
 <p align="center">
@@ -14,93 +13,90 @@
 
 ---
 
-## 🎥 Who Am I?
+## 🎥 About Me
 
-I sit where **engineering meets storytelling**.
+I’m a **Software Engineer and Animator** who blends **engineering precision** with **cinematic storytelling**.
 
-I build **modern web systems**, design **cinematic UI**, and create **story-driven animations** for global audiences.  
-Founder of **MTAANIMATION**, a digital animation studio focused on **impact, emotion, and scale**.
+Founder of **MTAANIMATION**, where I create story-driven 2D animations and animation-first digital experiences.  
+I build modern web applications, creative platforms, and visually rich interfaces designed for **global audiences**.
 
-> Code is structure.  
-> Animation is emotion.  
-> I work in both.
-
----
-
-## 🧩 What I Actually Do
-
-🧠 **Engineer**
-- Frontend systems with **React, Tailwind, Vite**
-- Full-stack apps using **Node.js & Laravel**
-- Performance-focused, mobile-first UI
-
-🎬 **Animate**
-- 2D character animation & rigging
-- Motion graphics & compositing
-- Storyboarding → final cut
-
-🚀 **Build Brands**
-- Animation-first web experiences
-- Products designed for **international audiences**
-- Visual storytelling that converts
+- 🔭 Current project: **MTAANIMATION**
+- 🌱 Learning: **Autodesk Maya** · **Laravel**
+- 🎨 Background: Animation, video editing, visual storytelling
 
 ---
 
-## ⚙️ My Stack (Battle-Tested)
+## 🧠 Core Focus
 
-### Code
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,node,php,laravel,python,mysql,mongodb,postgres,tailwind,vite,docker,linux&theme=dark" />
-</p>
-
-### Animation
-<p>
-<img src="https://skillicons.dev/icons?i=blender,ae,ps,ai&theme=dark" />
-</p>
+- Frontend Engineering (React ecosystem)
+- Full-Stack Development (Node.js, PHP)
+- Animation & Motion Design
+- Creative Coding & Visual Systems
 
 ---
 
-## 🔥 Flagship Projects
+<details>
+<summary><strong>🛠 Programming & Tech Stack (Click to expand)</strong></summary>
+
+### Languages
+JavaScript · TypeScript · Python · PHP · C++ · Java · HTML · CSS · SQL · Bash
+
+### Frameworks & Libraries
+React · Next.js · Node.js · Express · Laravel · Django · Flask · Tailwind CSS · Bootstrap · Redux · Socket.io · Prisma · Mongoose · Vite · jQuery
+
+### Databases
+MySQL · PostgreSQL · MongoDB · SQLite · Firebase · Redis
+
+### DevOps & Tools
+Git · GitHub Actions · Docker · Kubernetes · Jenkins · Linux · NGINX · Postman · VS Code · Vercel · Netlify · Render
+
+### Operating Systems
+Windows · Linux · Ubuntu · Debian · Kali Linux · macOS · Android
+
+</details>
+
+---
+
+<details>
+<summary><strong>🎨 Animation Stack (Click to expand)</strong></summary>
+
+### Software
+Adobe Animate · After Effects · Premiere Pro · Photoshop · Illustrator · Blender · Toon Boom Harmony · Autodesk Maya · Moho
+
+### Skills
+- 2D Animation & Rigging  
+- Storyboarding & Visual Development  
+- 3D Modeling & Animation (Foundational)  
+- Motion Graphics & Compositing  
+- Video Editing & Post-Production  
+
+</details>
+
+---
+
+## 🔥 Featured Work
 
 ### 🎬 MTAANIMATION
 **Animation Studio & Digital Brand**
 
 - Cinematic 2D animation
 - Short-form storytelling
-- Animation-first web identity
+- Animation-first web presence
 
 🌍 https://mtaanimation.com  
 🎥 https://www.tiktok.com/@mtaanimation
 
 ---
 
-## 📊 GitHub Reality Check
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laniricky&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laniricky&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laniricky&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laniricky&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧠 Current Focus
+## 🤝 Let’s Connect
 
-- 🧬 Advanced **Frontend Architecture**
-- 🎥 **3D Animation (Autodesk Maya)**
-- ⚙️ **Laravel at scale**
-- 🌍 Building globally relevant products
-
----
-
-## 🤝 Let’s Build Something Interesting
-
-If your project lives at the intersection of  
-**tech · creativity · storytelling** — we’ll get along.
-
-📩 Reach me:
 - LinkedIn: https://linkedin.com/in/fredrick-lani-18b255208  
 - Instagram: https://instagram.com/mtaanimation  
 - YouTube: https://youtube.com/@mtaanimation0  
@@ -108,5 +104,5 @@ If your project lives at the intersection of
 ---
 
 <p align="center">
-  <strong>⚠️ Warning:</strong> I ship ideas, not just code.
+  <strong>⚡ I build systems that move — visually and technically.</strong>
 </p>
