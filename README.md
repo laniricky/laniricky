@@ -59,30 +59,18 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 <img src="https://skillicons.dev/icons?i=blender,ae,pr,ps,ai&theme=dark" />
 </p>
 
-<p>
+<<p>
 <strong>Additional Animation & Production Tools:</strong><br/><br/>
 
-<!-- Toon Boom Harmony (official brand logo from Wikimedia) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Toon_Boom_Harmony_Logo.png" height="32" alt="Toon Boom Harmony Logo" />&nbsp;
+<img src="https://img.shields.io/badge/Toon%20Boom-Harmony-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Adobe-Audition-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clip%20Studio-Paint-darkgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Moho-Animation-lightblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Autodesk-Maya-3C9CD7?style=for-the-badge" />
 
-<!-- Adobe Audition (official logo from Wikimedia) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Adobe_Audition_CC_icon.png" height="32" alt="Adobe Audition Logo" />&nbsp;
-
-<!-- Clip Studio Paint (official logo from Wikimedia) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/CLIP_STUDIO_PAINT_Logo.png" height="32" alt="Clip Studio Paint Logo" />&nbsp;
-
-<!-- Adobe Premiere Pro (Simple Icons, works on GitHub) -->
-<img src="https://cdn.simpleicons.org/adobepremierepro/ffffff" height="32" alt="Adobe Premiere Pro Logo" />&nbsp;
-
-<!-- Autodesk (for Maya, Simple Icons) -->
-<img src="https://cdn.simpleicons.org/autodesk/ffffff" height="32" alt="Autodesk Logo" />&nbsp;
-
-<!-- Moho (Simple Icons) -->
-<img src="https://cdn.simpleicons.org/moho/ffffff" height="32" alt="Moho Logo" />
-
-<br/><br/>
-Toon Boom Harmony · Adobe Audition · Clip Studio Paint · Moho · Adobe Premiere Pro · Autodesk Maya
 </p>
+>
 
 
 ---
