@@ -65,8 +65,6 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 <img src="https://img.shields.io/badge/Toon%20Boom-Harmony-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Adobe-Audition-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Clip%20Studio-Paint-darkgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Moho-Animation-lightblue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Autodesk-Maya-3C9CD7?style=for-the-badge" />
 
 </p>
