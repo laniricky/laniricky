@@ -60,7 +60,16 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 </p>
 
 <p>
-<strong>Additional Animation & Production Tools:</strong><br/>
+<strong>Additional Animation & Production Tools:</strong><br/><br/>
+
+<img src="https://cdn.simpleicons.org/toonboom/ffffff" height="32" />&nbsp;
+<img src="https://cdn.simpleicons.org/adobeaudition/ffffff" height="32" />&nbsp;
+<img src="https://cdn.simpleicons.org/clipstudiopaint/ffffff" height="32" />&nbsp;
+<img src="https://cdn.simpleicons.org/adobepremierepro/ffffff" height="32" />&nbsp;
+<img src="https://cdn.simpleicons.org/autodesk/ffffff" height="32" />&nbsp;
+<img src="https://cdn.simpleicons.org/moho/ffffff" height="32" />
+
+<br/><br/>
 Toon Boom Harmony · Adobe Audition · Clip Studio Paint · Moho · Adobe Premiere Pro · Autodesk Maya
 </p>
 
