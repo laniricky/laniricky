@@ -51,7 +51,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 
 ### Code
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,node,php,laravel,python,mysql,mongodb,postgres,tailwind,vite,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,php,laravel,python,mysql,mongodb,postgres,tailwind,vite,docker,linux&theme=dark" />
 </p>
 
 ### Animation
