@@ -113,6 +113,7 @@ If your project needs
 
 📩 Reach me:
 - Email: lani@mtaanimation.com
+- Email: fredricklani@gmail.com
 - LinkedIn: https://linkedin.com/in/fredrick-lani-18b255208  
 - Instagram: https://instagram.com/mtaanimation
 - Facebook: https://facebook.com/mtaanimation
