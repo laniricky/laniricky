@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mtaanimation.com">🌐 Portfolio</a> ·
+  <a href="https://www.mtaanimation.com">🌐 Portfolio</a> ·
   <a href="https://www.tiktok.com/@mtaanimation">🎬 MTAANIMATION</a> ·
   <a href="https://www.linkedin.com/in/fredrick-lani-18b255208/">💼 LinkedIn</a>
 </p>
@@ -80,7 +80,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 - Story-driven film and short-form narratives
 - Performance-first animation pipeline
 
-🌍 https://mtaanimation.com  
+🌍 https://www.mtaanimation.com  
 🎥 https://www.tiktok.com/@mtaanimation
 
 ---
