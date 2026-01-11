@@ -95,6 +95,13 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laniricky&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-git-master-fredrick-lanis-projects.vercel.app/api?username=laniricky&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-fredrick-lanis-projects.vercel.app/api/top-langs/?username=laniricky&layout=compact&theme=tokyonight" />
+</p
 ---
 
 ## 🧠 Current Focus
