@@ -122,5 +122,5 @@ If your project needs
 ---
 
 <p align="center">
-  <strong>⚠️ Warning:</strong> I build systems and animate characters — not gimmicks.
+  I build systems and animate characters — not gimmicks.
 </p>
