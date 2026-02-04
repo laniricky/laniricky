@@ -112,7 +112,6 @@ If your project needs
 **solid engineering** or **cinematic character animation** — we’ll get along.
 
 📩 Reach me:
-- Email: lani@mtaanimation.com
 - Email: fredricklani@gmail.com
 - LinkedIn: https://linkedin.com/in/fredrick-lani-18b255208  
 - Instagram: https://instagram.com/mtaanimation
