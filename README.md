@@ -119,7 +119,3 @@ If your project needs
 - YouTube: https://youtube.com/@mtaanimation0  
 
 ---
-
-<p align="center">
-  I build systems and animate characters — not gimmicks.
-</p>
