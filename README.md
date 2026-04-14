@@ -90,7 +90,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 
   ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=laniricky&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laniricky&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laniricky&size_weight=0.5&count_weight=0.5)
 
 ---
 
