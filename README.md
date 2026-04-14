@@ -88,7 +88,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 ## 📊 GitHub Reality Check
 
 <p align="center">
-  <img src="https://lani-stats.vercel.app/api?username=laniricky&theme=nord" />
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=laniricky&show_icons=true&theme=tokyonight)
 </p>
 
 <p align="center">
