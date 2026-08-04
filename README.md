@@ -3,7 +3,7 @@
 <h3 align="center">Creative Technologist · Software Engineer · Character Animator</h3>
 
 <p align="center">
-  <em>I don’t just write code — I animate stories.</em>
+  <em>I don’t just write code — I animate stories too.</em>
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 I sit where **engineering meets storytelling** — but in **distinct domains**.
 
 I develop **robust web systems** and create **character-driven animations for film and narrative content**.  
-Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytelling, emotion, and character performance**.
+Founder of **MTAANIMATION**, an animation studio focused on **Relatable storytelling, emotion, and character performance**.
 
 > Code is structure.  
 > Animation is performance.  
-> I work in both — deliberately.
+> I work in both fields — deliberately.
 
 ---
 
@@ -36,9 +36,9 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 
 🎬 **Animate (Film & Narrative)**
 - 2D character animation & rigging
-- Shot-based animation for story and film
+- Shot-based animation for relatable stories and film
 - Acting, timing, and performance-driven motion
-- Storyboarding → final cut
+- Storyboarding → Toonboom Harmony → Premiere Pro
 
 🚀 **Build Brands**
 - Software platforms with strong visual identity
@@ -76,7 +76,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 ### 🎬 MTAANIMATION
 **Character Animation Studio**
 
-- Cinematic 2D character animation
+- 2D character animation
 - Story-driven film and short-form narratives
 - Performance-first animation pipeline
 
@@ -105,7 +105,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **cinematic storytel
 ## 🤝 Let’s Build Something Interesting
 
 If your project needs  
-**solid engineering** or **cinematic character animation** — we’ll get along.
+**Solid Software engineering** or **Character animation** — we’ll get along.
 
 📩 Reach me:
 - Email: fredricklani@gmail.com
