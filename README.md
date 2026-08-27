@@ -38,7 +38,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **Relatable storytel
 - 2D character animation & rigging
 - Shot-based animation for relatable stories and film
 - Acting, timing, and performance-driven motion
-- Storyboarding → Toonboom Harmony → Premiere Pro
+- Storyboarding → Adobe Audition → Toonboom Harmony → Premiere Pro
 
 🚀 **Build Brands**
 - Software platforms with strong visual identity
