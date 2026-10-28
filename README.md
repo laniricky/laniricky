@@ -1,48 +1,48 @@
 <!-- HERO -->
-<h1 align="center">⚡ FREDRICK LANI</h1>
+<h1 align="center">FREDRICK LANI</h1>
 <h3 align="center">Creative Technologist · Software Engineer · Character Animator</h3>
 
 <p align="center">
-  <em>I don’t just write code — I animate stories too.</em>
+  <em>I write code and Animate on the side too!</em>
 </p>
 
 <p align="center">
-  <a href="https://www.mtaanimation.com">🌐 Portfolio</a> ·
-  <a href="https://www.tiktok.com/@mtaanimation">🎬 MTAANIMATION</a> ·
-  <a href="https://www.linkedin.com/in/fredrick-lani-18b255208/">💼 LinkedIn</a>
+  <a href="https://www.mtaanimation.com">Portfolio</a> ·
+  <a href="https://www.tiktok.com/@mtaanimation">MTAANIMATION</a> ·
+  <a href="https://www.linkedin.com/in/fredrick-lani-18b255208/">LinkedIn</a>
 </p>
 
 ---
 
 ## 🎥 Who Am I?
 
-I sit where **engineering meets storytelling** — but in **distinct domains**.
+I sit where **Code and Film live together** in **distinct domains**.
 
-I develop **robust web systems** and create **character-driven animations for film and narrative content**.  
-Founder of **MTAANIMATION**, an animation studio focused on **Relatable storytelling, emotion, and character performance**.
+I develop **robust web systems** and create **character-driven animations for film and relatable content**.  
+The Founder of **MTAANIMATION**, an animation brand focused on **Relatable imagination, motion, art and Endless creativity**.
 
-> Code is structure.  
-> Animation is performance.  
-> I work in both fields — deliberately.
+> Code is the Engineering part of me.  
+> Animation is the creative side.  
+> But I work in both fields — deliberately: one at a time.
 
 ---
 
 ## 🧩 What I Actually Do
 
-🧠 **Engineer**
-- Frontend systems with **React, Tailwind, Vite**
-- Full-stack web applications using **Node.js & Laravel**
+🧠 **Software Engineering**
+- Frontend systems with **Vanilla, React, Tailwind, Vite, Kotlin**
+- Full-stack web applications using **Node.js & Laravel;** and Ktor too for android frameworks.
 - Scalable, performance-focused, production-ready systems
 
-🎬 **Animate (Film & Narrative)**
-- 2D character animation & rigging
-- Shot-based animation for relatable stories and film
-- Acting, timing, and performance-driven motion
-- Storyboarding → Adobe Audition → Toonboom Harmony → Premiere Pro
+🎬 **Animation**
+- 2D character design, rigging & animation.
+- 2D Environment and Prop design.
+- Acting, voicing and timing are skills I got on the way.
+- Animation workflow: Storyboarding → Adobe Audition → Toonboom Harmony → Premiere Pro.
 
 🚀 **Build Brands**
 - Software platforms with strong visual identity
-- Animation studios & creator-facing products
+- Animation Brands & creator-facing products
 - Products designed for **international audiences**
 
 ---
@@ -74,11 +74,11 @@ Founder of **MTAANIMATION**, an animation studio focused on **Relatable storytel
 ## 🔥 Flagship Projects
 
 ### 🎬 MTAANIMATION
-**Character Animation Studio**
+**Character Animation Brand**
 
-- 2D character animation
-- Story-driven film and short-form narratives
-- Performance-first animation pipeline
+- 2D character animation.
+- Film and short-form Relatable stories.
+- Performance-first animation pipeline.
 
 🌍 https://www.mtaanimation.com  
 🎥 https://www.tiktok.com/@mtaanimation
@@ -107,7 +107,7 @@ Founder of **MTAANIMATION**, an animation studio focused on **Relatable storytel
 If your project needs  
 **Solid Software engineering** or **Character animation** — we’ll get along.
 
-📩 Reach me:
+🤙 Holla me:
 - Email: fredricklani@gmail.com
 - LinkedIn: https://linkedin.com/in/fredrick-lani-18b255208  
 - Instagram: https://instagram.com/mtaanimation
